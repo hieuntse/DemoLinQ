@@ -1,0 +1,8 @@
+E:\APKFile\Lesson4\Lesson4\obj\Debug\Lesson4.csproj.AssemblyReference.cache
+E:\APKFile\Lesson4\Lesson4\obj\Debug\Lesson4.csproj.SuggestedBindingRedirects.cache
+E:\APKFile\Lesson4\Lesson4\obj\Debug\Lesson4.csproj.CoreCompileInputs.cache
+E:\APKFile\Lesson4\Lesson4\bin\Debug\Lesson4.exe.config
+E:\APKFile\Lesson4\Lesson4\bin\Debug\Lesson4.exe
+E:\APKFile\Lesson4\Lesson4\bin\Debug\Lesson4.pdb
+E:\APKFile\Lesson4\Lesson4\obj\Debug\Lesson4.exe
+E:\APKFile\Lesson4\Lesson4\obj\Debug\Lesson4.pdb

@@ -1,0 +1,8 @@
+E:\APKFile\Lesson4\Demo\bin\Debug\Demo.exe.config
+E:\APKFile\Lesson4\Demo\bin\Debug\Demo.exe
+E:\APKFile\Lesson4\Demo\bin\Debug\Demo.pdb
+E:\APKFile\Lesson4\Demo\obj\Debug\Demo.csproj.AssemblyReference.cache
+E:\APKFile\Lesson4\Demo\obj\Debug\Demo.csproj.SuggestedBindingRedirects.cache
+E:\APKFile\Lesson4\Demo\obj\Debug\Demo.csproj.CoreCompileInputs.cache
+E:\APKFile\Lesson4\Demo\obj\Debug\Demo.exe
+E:\APKFile\Lesson4\Demo\obj\Debug\Demo.pdb
